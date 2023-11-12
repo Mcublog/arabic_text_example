@@ -1,2 +1,2 @@
-# arabic_text_example
+# ArabicTextExample
 UTF8 -> CP1256 conversion
